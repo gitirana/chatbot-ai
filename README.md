@@ -53,6 +53,7 @@ The project uses [OpenAI API](https://platform.openai.com/account/api-keys).
 
 -   **[NextJS](https://nextjs.org/)**
 -   **[Vercel AI SDK](https://sdk.vercel.ai/docs)**
+-   **[Tailwind CSS](https://tailwindui.com/)**
 -   API:  **[OpenAI API](https://platform.openai.com/)** 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)** 
 -   ESLint:  **[ESLint](https://eslint.org/)** -> Using my package [@gitirana/eslint-config](https://www.npmjs.com/package/@gitirana/eslint-config)
